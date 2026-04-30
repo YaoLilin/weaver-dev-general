@@ -11,7 +11,7 @@ E9集成量子档案，可将流程数据推送到档案系统。采用配置化
 5. 档案系统可调用OA接口将档案归档结果传到OA，接口地址：OA服务器地址/api/secondev/archive/status
 6. 可以使用计划任务，定时查询档案归档状态，更新到档案推送结果台账中，计划任务类：com.customization.yll.wuling.archive.job.ArchiveStatusCheckJob
 
-![](preview%20(1).png)
+![](files/preview%20(1).png)
 
 完整信息请访问此仓库
 仓库地址：[weaver-e9-pde-archive: 泛微 E9 集成量子档案开发，使用配置化开发 ，可对不同流程配置档案推送](https://gitee.com/yaolilin/weaver-e9-pde-archive)
