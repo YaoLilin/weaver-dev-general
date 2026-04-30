@@ -9,18 +9,18 @@
 5. 在流程表单上显示流程表单助手小图标，点击后即可打开流程表单助手，图标可自由拖拽挪动位置
 6. 可查看流程节点信息（包括节点id和节点名称）
 
-![](file_1767926036000.png)
+![](files/file_1767926036000.png)
 
-![](file_1767926061000.png)
+![](files/file_1767926061000.png)
 
 ## 部署说明
 
 需要将 ecode 应用上传到系统中，在系统中进入 /ecode 页面，然后点击上方的导入按钮，上传本应用进行导入
 
-![](E9/流程表单信息助手/files/流程表单信息助手%20(3).zip)
+![](files/流程表单信息助手%20(3).zip)
 
 部署此 jar 包到系统中，放入 `ecology/WEB-INF/lib`  中
 
-![](weaver-seconddev-convenient-tool-1.0.0.jar)
+![](files/weaver-seconddev-convenient-tool-1.0.0.jar)
 
 好需要引入公共类库，按照此仓库的说明文档进行引入，引入 jar 包即可，地址：[weaver-e9-common: 泛微E9公共类库，包含工具类、通用组件，可以在任何 E9 项目中使用，为开发提供便利](https://gitee.com/yaolilin/weaver-e9-common)
